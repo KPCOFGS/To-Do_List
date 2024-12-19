@@ -7,7 +7,7 @@ A simple and interactive To-Do List application. The application allows users to
 ## Features
 
 - **Add Tasks**: Users can add new tasks to the list.
-- - **Edit Tasks**: Users can edit the details of existing tasks.
+- **Edit Tasks**: Users can edit the details of existing tasks.
 - **Delete Tasks**: Users can delete tasks that are no longer needed.
 - **Responsive Design**: The application is designed to be responsive and works well on both desktop and mobile devices.
 
