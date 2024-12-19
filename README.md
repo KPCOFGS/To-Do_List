@@ -2,6 +2,8 @@
 
 A simple and interactive To-Do List application. The application allows users to add, edit, and delete tasks.
 
+![Sample](static/images/sample.jpg)
+
 ## Features
 
 - **Add Tasks**: Users can add new tasks to the list.
